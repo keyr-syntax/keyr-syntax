@@ -22,4 +22,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=keyr-syntax&show_icons=true&locale=en" alt="keyr-syntax" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keyr-syntax&" alt="keyr-syntax" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=keyr-syntax&show_icons=true&locale=en&layout=compact" alt="keyr-syntax" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keyr-syntax" alt="keyr-syntax" /></a></p>
